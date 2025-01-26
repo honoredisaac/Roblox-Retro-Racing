@@ -29,4 +29,8 @@ body::before {
     bottom: 0;
     background: rgba(0, 0, 0, 0.15); /* Adjust opacity for darkness */
     pointer-events: none; /* Make sure this doesn't interfere with user interactions */
+    z-index: -1;
+}
+#sb{
+font-size: 32
 }
