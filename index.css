@@ -4,6 +4,7 @@ html, body {
     height: auto;
 }
 body {
+    padding: 15px;
     filter: brightness(85%);
     font-family: Consolas;
     background-image: url('/Roblox-Retro-Racing/bg.avif');
@@ -35,6 +36,7 @@ body::before {
 font-size: 48px;
 }
 .gamedescription{
+padding: 5px;
 border: 5px solid red;
 color: lime;
 }
