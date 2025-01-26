@@ -4,6 +4,7 @@ html, body {
     overflow: hidden;
 }
 body {
+    filter: brightness(85%);
     font-family: Consolas;
     background-image: url('/Roblox-Retro-Racing/bg.avif');
     background-repeat: no-repeat;
@@ -17,5 +18,5 @@ body {
 color: blue;
 }
 #txt{
-color: darkred;
+color: Maroon;
 }
