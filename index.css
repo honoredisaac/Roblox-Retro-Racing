@@ -20,7 +20,7 @@ color: blue;
 #txt{
 color: Maroon;
 }
-body::after {
+body::before {
     content: '';
     position: absolute;
     top: 0;
