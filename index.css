@@ -37,6 +37,8 @@ font-size: 48px;
 }
 .gamedescription{
 padding: 5px;
+-webkit-text-stroke-width: 2.5px;
+-webkit-text-stroke-color: lime;
 border: 5px solid red;
-color: lime;
+color: white;
 }
