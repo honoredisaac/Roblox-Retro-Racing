@@ -32,7 +32,7 @@ body::before {
     z-index: -1;
 }
 #sb{
-font-size: 32;
+font-size: 48;
 }
 .gamedescription{
 border: 5px solid red;
